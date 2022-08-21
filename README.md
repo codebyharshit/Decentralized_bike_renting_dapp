@@ -20,3 +20,17 @@ npm run start
 
 ```
 Open http://localhost:4200 with your browser to see the result.
+
+## DEMO:-
+
+https://user-images.githubusercontent.com/64348740/185787159-8493a739-5031-4581-830e-5684344e5aa2.mp4
+
+## SNAPS:-
+![image](https://user-images.githubusercontent.com/64348740/185787193-9b70d00b-b7fc-4fec-8753-a597ba84e7ec.png)
+
+![image](https://user-images.githubusercontent.com/64348740/185787225-4cc63fb3-2ddd-4f0c-934e-b22a00c86d5a.png)
+
+![image](https://user-images.githubusercontent.com/64348740/185787293-79b1f949-6300-430e-8fc2-328a9087de42.png)
+
+![image](https://user-images.githubusercontent.com/64348740/185787244-b1eec116-9cfd-49af-a187-52012dfe0fec.png)
+
